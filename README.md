@@ -2,8 +2,7 @@
 
 The **Africa Energy Data Pipeline** is an end-to-end ETL system that automates the collection, transformation, validation, and storage of African energy sector data from the [Africa Energy Portal](https://africa-energy-portal.org/). It standardizes datasets across all **54 African countries** for the years **2000–2022**, covering the subsectors: **Access**, **Supply**, and **Technical**.
 
-![Africa Energy Data Map](images/africa-energy-data-map.png)
-
+![Africa Energy Data Map](./africa-energy-data-map.png)
 
 ##  Overview
 
